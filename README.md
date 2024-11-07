@@ -1,2 +1,2 @@
 # newrepo
-this my first repo
+This my first git repository
